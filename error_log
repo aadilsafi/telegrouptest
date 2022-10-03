@@ -1,0 +1,137 @@
+[17-Aug-2022 11:40:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/index.php(4): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[17-Aug-2022 11:40:58 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/include/load.php(89): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#3 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[17-Aug-2022 11:42:11 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/include/load.php(89): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#3 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[17-Aug-2022 11:42:11 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/index.php(4): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 11:11:41 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/index.php(4): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 11:11:42 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/include/load.php(89): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#3 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 11:11:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/index.php(4): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 12:32:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:32:53 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:32:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:32:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:32:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:32:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 18:03:05 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 18:03:05 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 18:03:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 18:03:09 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 18:03:11 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 18:03:13 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php:476
+Stack trace:
+#0 /home/redigital/public_html/telegroup.app/fns/sql/load.php(9): Medoo\Medoo->__construct(Array)
+#1 /home/redigital/public_html/telegroup.app/fns/variables/get_current_user_info.php(68): DB::connect()
+#2 /home/redigital/public_html/telegroup.app/fns/variables/load.php(6): include('/home/redigital...')
+#3 /home/redigital/public_html/telegroup.app/pages/api_request.php(8): include('/home/redigital...')
+#4 /home/redigital/public_html/telegroup.app/include/load.php(55): include('/home/redigital...')
+#5 /home/redigital/public_html/telegroup.app/index.php(3): require('/home/redigital...')
+#6 {main}
+  thrown in /home/redigital/public_html/telegroup.app/fns/sql/Medoo.php on line 476
+[18-Aug-2022 12:33:15 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:15 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:17 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:17 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:19 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/redigital/public_html/telegroup.app/include/load.php on line 4
+[18-Aug-2022 12:33:19 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/redigital/public_html/telegroup.app/include/load.php on line 4
