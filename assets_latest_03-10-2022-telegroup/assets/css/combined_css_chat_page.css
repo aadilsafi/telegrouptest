@@ -19826,7 +19826,7 @@ video::-webkit-media-text-track-display {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
 
-    
+
 }
 
 .note-btn-group {
@@ -20559,7 +20559,7 @@ a.note-dropdown-item:hover {
 
 .note-editor .note-editing-area .note-editable {
     outline: none;
-    background:white;
+    background: white;
     border-radius: 25px;
 }
 
@@ -31556,7 +31556,7 @@ input[type=file]::-webkit-file-upload-button {
     padding: 0;
     justify-content: center;
     color: var(--chat-window-primary-text-color);
-    margin-bottom:35px;
+    margin-bottom: 35px;
 }
 
 .main .chatbox>.contents>.chat_messages>ul>li.align_right>div>.right>.header {
@@ -35277,7 +35277,7 @@ input[type="color"]::-webkit-color-swatch {
 
     .message_editor .note-editor.note-frame .note-editing-area .note-editable {
         padding: 10px;
-        
+
     }
 
     .main .chatbox>.footer>.editor .send_message_button>div>span {
@@ -36258,9 +36258,11 @@ ul.prevent_default {
     width: 22px;
     height: 22px;
 }
-.chat-message > ul {
+
+.chat-message>ul {
     margin-bottom: 34px;
 }
+
 @media screen and (max-width: 770.98px) {
     .addBtn {
         padding: 0;
@@ -36289,6 +36291,7 @@ ul.prevent_default {
         bottom: 21px;
         left: 42px;
     }
+
     .addBtn {
         padding: 0;
         color: white;
@@ -36306,8 +36309,7 @@ ul.prevent_default {
     }
 }
 
-@media screen and (max-width: 770.98px)
-{
+@media screen and (max-width: 770.98px) {
 
     .message_editor .note-toolbar {
         text-align: center;
@@ -36315,8 +36317,8 @@ ul.prevent_default {
     }
 }
 
-@media only screen and (min-width: 380px) and (max-width: 500px){
-    .main .chatbox>.footer>.editor .send_message_button>div>span{
+@media only screen and (min-width: 380px) and (max-width: 500px) {
+    .main .chatbox>.footer>.editor .send_message_button>div>span {
         margin-top: -23px;
     }
 }
